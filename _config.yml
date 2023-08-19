@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS487: Building Secure Computer Systems
+title: CS487 Building Secure Computer Systems
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Xiaoguang Wang
@@ -28,10 +28,10 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Xiaoguang Wang:
+    - 'https://xiaoguang.wang'
+#  Just the Class on GitHub:
+#    - 'https://github.com/kevinlin1/just-the-class'
 footer_content:
 
 # Collections for website data
