@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Syllabus
 description: >-
     Course policies and information.
 ---
 
-# About
+# Syllabus
 {:.no_toc}
 
 ## Table of contents
@@ -16,18 +16,59 @@ description: >-
 
 ---
 
-## About
+## General Information
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+### Instructor
+```
+Dr. Xiaoguang Wang
+Email: xgwang9@uic.edu
+Office: SEO 1328
+Office hours: Tuesday 3:30 PM - 4:30 PM or by appointment
+```
 
-## Lecture
+### Meeting Time and Location
+Monday, Wednesday, 3:00PM – 4:15PM, SES 138
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+## Course Description
 
-## Resources
+This course aims to provide students with a good understanding of the theories, principles, techniques, and practices for building secure computer systems. Students will gain the knowledge and skills necessary to design, implement, and maintain secure computer systems in a rapidly evolving digital landscape through theoretical concepts, practical exercises, and real-world case studies. This class covers both offensive techniques and defensive solutions. Students will study software and system security (binary reverse engineering, vulnerability analysis, exploit and shellcode development), cryptographic background and tools, access control and authentication, intrusion detection and prevention systems (firewalls), etc., to understand how attackers hack the system and how to protect computer software. A crucial part of studying security is putting skills to the test in practice. In this class, students' progress is evaluated by quizzes, assignments (e.g., hacking challenges), and a project.
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
+## Textbook
+**Highly recommended:**
+```
+William Stallings and Lawrie Brown, Computer Security: Principles and Practice, 4th edition, Pearson, 2017.
+```
+**Optional:**
+```
+Wenliang Du, Computer Security: A Hands-on Approach, 2nd Edition, 2017.
+```
 
-## Assignments
+## Prerequisites
 
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+- Basic knowledge of computer architecture and operating systems (e.g., Linux).
+- Familiarity with programming languages (e.g., C/C++, Python).
+
+## Learning Objectives
+By the end of the course, students should be able to:
+
+- Understand fundamental principles of computer security and threat models.
+- Identify common vulnerabilities and apply appropriate mitigation techniques.
+- Use software security analysis and reverse engineering tools.
+- Evaluate and select encryption and authentication mechanisms.
+- Analyze and assess security risks in complex computer systems.
+- Apply best practices for secure system administration and network configuration.
+
+## Assessment and Grading:
+
+- Quizzes and assignments: [35%]
+- Midterm examination: [15%]
+- Final project: [40%]
+- Class participation and discussions: [10%]
+
+The letter grade will be assigned as: A :≥ 90, A− : [85, 90), B+ : [80, 85), B : [75, 80), C : [65, 75), D : [55, 65), E : [50, 55), F :< 50.
+
+## Academic Integrity
+You are encouraged to discuss assignments and labs with classmates, but all final work must be yours. Plagiarism and cheating are not allowed based on [UIC policy](https://dos.uic.edu/community-standards/academic-integrity/).
+
+## Syllabus Update
+Information in the syllabus may be subject to change with reasonable advance notice.
