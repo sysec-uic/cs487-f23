@@ -5,6 +5,10 @@ title: Building Secure Computer Systems
 Abbreviations:
 - CSPP: Computer Security: Principles and Practice, 4th edition
 
+**Day**
+: **Lecture**
+  : **Notes**
+
 Aug 21
 : [Logistics & Introduction](#)
   : No Reading
