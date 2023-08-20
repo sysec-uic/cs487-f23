@@ -7,12 +7,11 @@ Abbreviations:
 
 Aug 21
 : [Logistics & Introduction](#)
+  : No Reading
 
 Aug 23
 : [Software Security I](#)
   : **Reading**{: .label .label-green}CSPP Chapter 10
-<!--: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)-->
 
 Aug 28
 : [Variables & Objects](#)
