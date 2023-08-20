@@ -11,11 +11,13 @@ Aug 21
 
 Aug 23
 : [Software Security I](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 10
+  : No Reading
 
+<!--
 Aug 28
-: [Variables & Objects](#)
-  : [1.2](#), [2.1](#)
+: [Software Security II](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 10
 
 Aug 30
 : **Lab**{: .label .label-purple } [Intro to Java](#)
+-->
