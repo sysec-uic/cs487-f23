@@ -58,7 +58,7 @@ By the end of the course, students should be able to:
 - Apply best practices for secure system administration and network configuration.
 - Be familiar with computer security research.
 
-## Assessment and Grading:
+## Assessment and Grading
 
 - Quizzes and assignments: [35%]
 - Midterm examination: [15%]
