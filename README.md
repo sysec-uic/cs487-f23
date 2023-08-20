@@ -10,14 +10,15 @@ seo:
 
 # CS 487: Building Secure Computer Systems
 
-### Course Information
-**Instructor:**	[Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1328)
-**Email:**	xgwang9 at uic dot edu (preferred way to communicate)
+## Course Information
+**Instructor:**
+> [Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1328)
+>**Email:**	xgwang9 at uic dot edu (preferred way to communicate)
 
-```
-Time:	Monday, Wednesday, 3:00PM – 4:15PM, SES 138
-Office hours: Tuesday 3:30 PM - 4:30 PM, or by appointment
-```
+
+> **Time & Location:**	Monday, Wednesday, 3:00PM – 4:15PM, SES 138
+> **Office hours:** Tuesday 3:30 PM - 4:30 PM, or by appointment
+
 
 <!--
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).
@@ -25,7 +26,7 @@ The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://syse
 
 Primary course information can be found in the [Syllabus](https://sysec-uic.github.io/cs487-f23/syllabus/).
 
-**Announcement:**
+## Announcement:
 - 08/20: Welcome back!
 
 {% for module in site.modules %}
