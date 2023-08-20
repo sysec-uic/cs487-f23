@@ -12,11 +12,10 @@ seo:
 
 ## Course Information
 **Instructor:**
-> [Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1328)
->**Email:**	xgwang9 at uic dot edu (preferred way to communicate)
-
+[Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1328)
 
 > **Time & Location:**	Monday, Wednesday, 3:00PM – 4:15PM, SES 138
+
 > **Office hours:** Tuesday 3:30 PM - 4:30 PM, or by appointment
 
 
