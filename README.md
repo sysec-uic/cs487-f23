@@ -17,6 +17,10 @@ The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://syse
 
 Use links at the left side of this page to access the main course resources (most were mentioned in the [Syllabus](https://sysec-uic.github.io/cs487-f23/syllabus/)).
 
+{% assign announcements = site.announcements | reverse %}
+{% for announcement in announcements %}
+{{ announcement }}
+{% endfor %}
 
 {% for module in site.modules %}
 {{ module }}
