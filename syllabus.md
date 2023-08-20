@@ -34,7 +34,6 @@ Monday, Wednesday, 3:00PM – 4:15PM, SES 138
 This course aims to provide students with a good understanding of the theories, principles, techniques, and practices for building secure computer systems. Students will gain the knowledge and skills necessary to design, implement, and maintain secure computer systems in a rapidly evolving digital landscape through theoretical concepts, practical exercises, and real-world case studies. This class covers both offensive techniques and defensive solutions. Students will study software and system security (binary reverse engineering, vulnerability analysis, exploit and shellcode development), cryptographic background and tools, access control and authentication, intrusion detection and prevention systems (firewalls), etc., to understand how attackers hack the system and how to protect computer software. A crucial part of studying security is putting skills to the test in practice. In this class, students' progress is evaluated by quizzes, assignments (e.g., hacking challenges), and a project.
 
 ## Textbook
-**Highly recommended:**
 
 > William Stallings and Lawrie Brown, **Computer Security: Principles and Practice**, 4th edition, Pearson, 2017.
 

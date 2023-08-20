@@ -1,14 +1,18 @@
 ---
-title: Introduction to Java
+title: Building Secure Computer Systems
 ---
 
+Abbreviations:
+- CSPP: Computer Security: Principles and Practice, 4th edition
+
 Aug 21
-: [Java & Git](#)
-  : [1.1](#)
+: [Logistics & Introduction](#)
 
 Aug 23
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+: [Software Security I](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 10
+<!--: **Section**{: .label .label-purple }[Intro to Java](#)
+  : [Solution](#)-->
 
 Aug 28
 : [Variables & Objects](#)
