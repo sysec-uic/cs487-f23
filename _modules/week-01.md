@@ -21,7 +21,8 @@ Aug 28
 
 Aug 30
 : **Lab**{: .label .label-purple } [Intro to Java](#)
--->
+
 
 Abbreviation:
 - *CSPP*: *Computer Security: Principles and Practice*, 4th edition
+-->
