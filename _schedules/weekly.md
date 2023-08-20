@@ -19,6 +19,7 @@ timeline:
   - '5:00 PM'
   - '5:30 PM'
 schedule:
+  - name: Sunday
   - name: Monday
     events:
       - name: Lecture
@@ -39,4 +40,5 @@ schedule:
         location: SES 138
   - name: Thursday
   - name: Friday
+  - name: Saturday
 ---

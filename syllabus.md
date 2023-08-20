@@ -35,13 +35,13 @@ This course aims to provide students with a good understanding of the theories, 
 
 ## Textbook
 **Highly recommended:**
-```
-William Stallings and Lawrie Brown, Computer Security: Principles and Practice, 4th edition, Pearson, 2017.
-```
+
+> William Stallings and Lawrie Brown, **Computer Security: Principles and Practice**, 4th edition, Pearson, 2017.
+
 **Optional:**
-```
-Wenliang Du, Computer Security: A Hands-on Approach, 2nd Edition, 2017.
-```
+
+> Wenliang Du, **Computer Security: A Hands-on Approach**, 2nd Edition, 2017.
+
 
 ## Prerequisites
 
@@ -53,10 +53,11 @@ By the end of the course, students should be able to:
 
 - Understand fundamental principles of computer security and threat models.
 - Identify common vulnerabilities and apply appropriate mitigation techniques.
-- Use software security analysis and reverse engineering tools.
+- Understand software security analysis and use reverse engineering tools.
 - Evaluate and select encryption and authentication mechanisms.
 - Analyze and assess security risks in complex computer systems.
 - Apply best practices for secure system administration and network configuration.
+- Be familiar with computer security research.
 
 ## Assessment and Grading:
 
@@ -68,7 +69,7 @@ By the end of the course, students should be able to:
 The letter grade will be assigned as: A :≥ 90, A− : [85, 90), B+ : [80, 85), B : [75, 80), C : [65, 75), D : [55, 65), E : [50, 55), F :< 50.
 
 ## Academic Integrity
-You are encouraged to discuss assignments and labs with classmates, but all final work must be yours. Plagiarism and cheating are not allowed based on [UIC policy](https://dos.uic.edu/community-standards/academic-integrity/).
+You are encouraged to discuss assignments and labs with classmates, but all final work must be yours. Plagiarism and cheating are prohibited according to [UIC's academic integrity policy](https://dos.uic.edu/community-standards/academic-integrity/).
 
 ## Syllabus Update
 Information in the syllabus may be subject to change with reasonable advance notice.
