@@ -13,12 +13,11 @@ seo:
 ### Course Information
 **Instructor:**
 
-[Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1328)
+[Xiaoguang Wang](https://xiaoguang.wang/) (Office: SEO 1331)
 
 > **Time & Location:**	Monday, Wednesday, 3:00PM – 4:15PM, SES 138
 
 > **Office hours:** Tuesday 3:30 PM - 4:30 PM, or by appointment
-
 
 <!--
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).

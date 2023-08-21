@@ -22,7 +22,7 @@ description: >-
 ```
 Dr. Xiaoguang Wang
 Email: xgwang9@uic.edu
-Office: SEO 1328
+Office: SEO 1331
 Office hours: Tuesday 3:30 PM - 4:30 PM or by appointment
 ```
 
