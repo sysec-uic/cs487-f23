@@ -31,7 +31,7 @@ schedule:
       - name: Office Hours
         start: 3:30 PM
         end: 4:30 PM
-        location: SEO 1328
+        location: SEO 1331
   - name: Wednesday
     events:
       - name: Lecture
