@@ -21,6 +21,7 @@ Aug 23
 Aug 28
 : [Software Security II](#)
   : **Reading**{: .label .label-green}CSPP Chapter 10
+  : **Code**{: .label .label-blue}[lec03.tar.gz](https://github.dev/sysec-uic/cs487-f23/code/lec03.tar.gz)
 
 <!--
 Aug 30
