@@ -26,6 +26,7 @@ Aug 28
 
 Aug 30
 : [Software Security II: Write the shellcode](#)
+  : No Reading
 
 Sep 04
 : Labor day (no class)

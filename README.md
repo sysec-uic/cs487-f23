@@ -27,7 +27,7 @@ Primary course information can be found in the [Syllabus](https://sysec-uic.gith
 
 ### Announcement:
 - 08/21: Welcome back!
-- 08/29: Assignment 1 is out, please check the blackboard for details. Assignment 1 is due on 09/15.
+- 08/29: Assignment 1 is out, please check the blackboard for details. Assignment 1 is due on **09/15**.
 
 {% for module in site.modules %}
 {{ module }}
