@@ -19,11 +19,13 @@ Aug 23
 
 
 Aug 28
-: [Software Security II](#)
+: [Software Security II: Control flow hijacking](#)
   : **Reading**{: .label .label-green}CSPP Chapter 10
   : **Code**{: .label .label-blue}[lec03.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec03.tar.gz)
 
-<!--
+
 Aug 30
-: **Lab**{: .label .label-purple } [Intro to Java](#)
--->
+: [Software Security II: Write the shellcode](#)
+
+Sep 04
+: Labor day (no class)
