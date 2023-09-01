@@ -19,13 +19,13 @@ Aug 23
 
 
 Aug 28
-: [Software Security II: Control flow hijacking](#)
+: [Software Security II: Control flow hijacking](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11576290_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 10
   : **Code**{: .label .label-blue}[lec03.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec03.tar.gz)
 
 
 Aug 30
-: [Software Security II: Write the shellcode](#)
+: [Software Security II: Write the shellcode](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11584792_1&course_id=_259279_1&launch_in_new=true)
   : No Reading
 
 Sep 04
