@@ -31,4 +31,4 @@ Sep 04
 
 Sep 06
 : [Software Security III: Format String vulnerabilities](#)
-: **Reading**{: .label .label-green}[Format String](https://owasp.org/www-community/attacks/Format_string_attack)
+  : **Reading**{: .label .label-green}[Format String](https://owasp.org/www-community/attacks/Format_string_attack)
