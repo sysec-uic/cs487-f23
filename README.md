@@ -23,7 +23,7 @@ seo:
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).
 -->
 
-Primary course information can be found in the [Syllabus](https://sysec-uic.github.io/cs487-f23/syllabus/) or the [PDF](https://github.com/sysec-uic/cs487-f23/raw/main/files/CS487_Fall23_Syllabus.pdf).
+Primary course information can be found in the [Syllabus](https://sysec-uic.github.io/cs487-f23/syllabus/) or download the [PDF file](https://github.com/sysec-uic/cs487-f23/raw/main/files/CS487_Fall23_Syllabus.pdf).
 
 ### Announcement:
 - 08/21: Welcome back!
