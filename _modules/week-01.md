@@ -24,7 +24,7 @@ Aug 28
 
 Aug 30
 : [Software Security II: Write the shellcode](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11584792_1&course_id=_259279_1&launch_in_new=true)
-  : No Reading
+  : **Assignment**{: .label .label-yellow}Assignment 1 is announced (due 09/15)
 
 Sep 04
 : Labor day (no class)
@@ -32,3 +32,7 @@ Sep 04
 Sep 06
 : [Software Security III: Format String vulnerabilities](#)
   : **Reading**{: .label .label-green}[Format String](https://owasp.org/www-community/attacks/Format_string_attack)
+
+Sep 11
+: [Software Security III: Code Reuse](#)
+  : **Reading**{: .label .label-green}[ROP](https://dl.acm.org/doi/10.1145/1315245.1315313)
