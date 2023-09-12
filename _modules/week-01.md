@@ -36,3 +36,4 @@ Sep 06
 Sep 11
 : [Software Security III: Code Reuse](#)
   : **Reading**{: .label .label-green}[ROP](https://dl.acm.org/doi/10.1145/1315245.1315313)
+  : **Code**{: .label .label-blue}[lec06.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec06.tar.gz)
