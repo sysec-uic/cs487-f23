@@ -24,7 +24,7 @@ Aug 28
 
 Aug 30
 : [Software Security: Write the shellcode](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11584792_1&course_id=_259279_1&launch_in_new=true)
-  : **Assignment**{: .label .label-yellow}Assignment 1 is announced (due 09/15)
+  : **Assignment 1**{: .label .label-yellow} Due 09/15
 
 Sep 04
 : Labor day (no class)
@@ -32,6 +32,7 @@ Sep 04
 Sep 06
 : [Software Security: Format String vulnerabilities](#)
   : **Reading**{: .label .label-green}[Format String](https://owasp.org/www-community/attacks/Format_string_attack)
+  : **Assignment 2**{: .label .label-yellow} Due 09/21
 
 Sep 11
 : [Software Security: Code Reuse](#)
@@ -41,6 +42,7 @@ Sep 11
 Sep 13
 : [Software Security: ROP](#)
   : **Code**{: .label .label-blue}[lec07.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec07.tar.gz)
+  : **Assignment 3**{: .label .label-yellow} Due 09/29
 
 Sep 18
 : [Software Security: Defense mechanisms](#)
