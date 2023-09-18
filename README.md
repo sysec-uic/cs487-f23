@@ -30,6 +30,8 @@ Primary course information can be found in the [Syllabus](https://sysec-uic.gith
 - 08/29: Assignment 1 is out, please check the blackboard for details. Assignment 1 is due on **09/15**.
 - 09/06: Please read paper [The geometry of innocent flesh on the bone: return-into-libc without function calls (on the x86)
 ](https://dl.acm.org/doi/10.1145/1315245.1315313) before 09/11.
+- 09/10: Assignment 2 is out, please check the blackboard for details. Assignment 2 is due on **09/21**.
+- 09/16: Assignment 3 is out, please check the blackboard for details. Assignment 3 is due on **09/29**.
 
 {% for module in site.modules %}
 {{ module }}
