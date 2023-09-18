@@ -44,5 +44,5 @@ Sep 13
 
 Sep 18
 : [Software Security: Defense mechanisms](#)
-
+  : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec08.tar.gz)
 
