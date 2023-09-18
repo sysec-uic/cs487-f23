@@ -30,21 +30,21 @@ Sep 04
 : Labor day (no class)
 
 Sep 06
-: [Software Security: Format String vulnerabilities](#)
+: [Software Security: Format String vulnerabilities](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11593286_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}[Format String](https://owasp.org/www-community/attacks/Format_string_attack)
   : **Assignment 2**{: .label .label-yellow} Due 09/21
 
 Sep 11
-: [Software Security: Code Reuse](#)
+: [Software Security: Code Reuse (ret2libc)](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11600562_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}[ROP](https://dl.acm.org/doi/10.1145/1315245.1315313)
   : **Code**{: .label .label-blue}[lec06.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec06.tar.gz)
 
 Sep 13
-: [Software Security: ROP](#)
+: [Software Security: ROP](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11604173_1&course_id=_259279_1&launch_in_new=true)
   : **Code**{: .label .label-blue}[lec07.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec07.tar.gz)
   : **Assignment 3**{: .label .label-yellow} Due 09/29
 
 Sep 18
-: [Software Security: Defense mechanisms](#)
+: [Software Security: hw1 review + CFI](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11610766_1&course_id=_259279_1&launch_in_new=true)
   : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec08.tar.gz)
 
