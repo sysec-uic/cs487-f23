@@ -48,3 +48,17 @@ Sep 18
 : [Software Security: hw1 review + CFI](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11610766_1&course_id=_259279_1&launch_in_new=true)
   : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec08.tar.gz)
 
+Sep 20
+: [Software Security: reverse shell](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11615630_1&course_id=_259279_1&launch_in_new=true)
+
+Sep 25
+: [Software Security: heap exploit](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11624982_1&course_id=_259279_1&launch_in_new=true)
+  : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec10.tar.gz)
+
+Sep 27
+: [Software Security: integer overflow + race condition](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11624987_1&course_id=_259279_1&launch_in_new=true)
+  : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec11.tar.gz)
+
+Oct 02
+: [Software Security: vulnerability testing + fuzzing](#)
+
