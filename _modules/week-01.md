@@ -53,11 +53,11 @@ Sep 20
 
 Sep 25
 : [Software Security: heap exploit](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11624982_1&course_id=_259279_1&launch_in_new=true)
-  : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec10.tar.gz)
+  : **Code**{: .label .label-blue}[lec10.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec10.tar.gz)
 
 Sep 27
 : [Software Security: integer overflow + race condition](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11624987_1&course_id=_259279_1&launch_in_new=true)
-  : **Code**{: .label .label-blue}[lec08.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec11.tar.gz)
+  : **Code**{: .label .label-blue}[lec11.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec11.tar.gz)
 
 Oct 02
 : [Software Security: vulnerability testing + fuzzing](#)
