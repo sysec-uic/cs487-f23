@@ -60,5 +60,5 @@ Sep 27
   : **Code**{: .label .label-blue}[lec11.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec11.tar.gz)
 
 Oct 02
-: [Software Security: vulnerability testing + fuzzing](#)
+: [Software Security: malware + vulnerability testing + fuzzing](#)
 
