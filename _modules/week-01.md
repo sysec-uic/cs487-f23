@@ -60,8 +60,10 @@ Sep 27
   : **Code**{: .label .label-blue}[lec11.tar.gz](https://github.com/sysec-uic/cs487-f23/raw/main/code/lec11.tar.gz)
 
 Oct 02
-: [Software Security: malware + malware defense](#)
+: [Software Security: malware + malware defense](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11636535_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 6
 
 Oct 04
-: [Software Security: vulnerability discovery: symbolic execution + fuzzing](#)
+: [Software Security: vulnerability discovery: symbolic execution + fuzzing](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11636535_1&course_id=_259279_1&launch_in_new=true)
+
+
