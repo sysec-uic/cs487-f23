@@ -66,4 +66,17 @@ Oct 02
 Oct 04
 : [Software Security: vulnerability discovery: symbolic execution + fuzzing](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11636535_1&course_id=_259279_1&launch_in_new=true)
 
+Oct 09
+: [Password + Authentication](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 3
+
+Oct 11
+: [Authentication + hw3 + midterm review](#)
+
+Oct 16
+: NSF travel (take-home midterm exam, no class)
+
+Oct 18
+: [Access Control](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 4
 
