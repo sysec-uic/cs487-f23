@@ -67,7 +67,7 @@ Oct 02
 Oct 04
 : [Software Security: vulnerability discovery: symbolic execution + fuzzing](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11636535_1&course_id=_259279_1&launch_in_new=true)
   : **Code**{: .label .label-blue}[afl tutorial](https://github.com/mykter/afl-training)
-  : **Assignment 3**{: .label .label-yellow} Due 10/19
+  : **Assignment 4**{: .label .label-yellow} Due 10/19
 
 Oct 09
 : [Password + Authentication](#)
