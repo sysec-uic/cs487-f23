@@ -32,7 +32,12 @@ Primary course information can be found in the [Syllabus](https://sysec-uic.gith
 ](https://dl.acm.org/doi/10.1145/1315245.1315313) before 09/11.
 - 09/10: Assignment 2 is out, please check the blackboard for details. Due on **09/21**.
 - 09/16: Assignment 3 is out, please check the blackboard for details. Due on **09/29**.
+- 09/25: Paper reading assignment, due on **10/06**.
+- 10/04: Paper reading assignment, due on **10/12**.
+- 10/10: Assignment 4 is out, please check the blackboard for details. Due on **10/19**.
 
+<!--
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
+-->
