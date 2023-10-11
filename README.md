@@ -17,7 +17,7 @@ seo:
 
 > **Time & Location:**	Monday, Wednesday, 3:00PM – 4:15PM, SES 138
 
-> **Office hours:** Tuesday 3:30 PM - 4:30 PM, or by appointment
+> **Office hours:** Tuesday 3:30 PM - 4:30 PM, or by email appointment (checkout my [calendar](https://outlook.office365.com/calendar/published/226b791e20a444379541fdcf022d2cb6@uic.edu/d264656d74b34529a30a1bf502a7a96211138294395846385848/calendar.html))
 
 <!--
 The link to this webpage is [https://sysec-uic.github.io/cs487-f23](https://sysec-uic.github.io/cs487-f23).
