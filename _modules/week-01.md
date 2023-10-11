@@ -50,6 +50,7 @@ Sep 18
 
 Sep 20
 : [Software Security: reverse shell](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11615630_1&course_id=_259279_1&launch_in_new=true)
+  : **Reading**{: .label .label-green}[Reverse Shell Cheatsheet](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md)
 
 Sep 25
 : [Software Security: heap exploit](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11624982_1&course_id=_259279_1&launch_in_new=true)
@@ -66,6 +67,7 @@ Oct 02
 Oct 04
 : [Software Security: vulnerability discovery: symbolic execution + fuzzing](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11636535_1&course_id=_259279_1&launch_in_new=true)
   : **Code**{: .label .label-blue}[afl tutorial](https://github.com/mykter/afl-training)
+  : **Assignment 3**{: .label .label-yellow} Due 10/19
 
 Oct 09
 : [Password + Authentication](#)
