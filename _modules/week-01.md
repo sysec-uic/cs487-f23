@@ -70,11 +70,11 @@ Oct 04
   : **Assignment 4**{: .label .label-yellow} Due 10/19
 
 Oct 09
-: [Password + Authentication](#)
+: [Password + Authentication](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11649063_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 3
 
 Oct 11
-: [Authentication + hw3 + midterm review](#)
+: [Authentication + hw3 + midterm review](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11649063_1&course_id=_259279_1&launch_in_new=true)
 
 Oct 16
 : NSF travel (take-home midterm exam, no class)
