@@ -83,3 +83,19 @@ Oct 18
 : [Access Control](#)
   : **Reading**{: .label .label-green}CSPP Chapter 4
 
+Oct 23
+: [Crypto Basic + Hash Function + Symmetric-Key Encryption](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 2.1, 2.2
+
+Oct 25
+: [Symmetric-Key Encryption + Diffie-Hellman Key Exchange](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 2.1, 2.2
+
+Oct 30
+: [Publik-Key Encryption](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 2.3, 2.4
+
+Nov 1
+: [Operating System Security](#)
+  : **Reading**{: .label .label-green}CSPP Chapter 12
+
