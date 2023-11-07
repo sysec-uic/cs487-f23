@@ -80,22 +80,27 @@ Oct 16
 : NSF travel (take-home midterm exam, no class)
 
 Oct 18
-: [Access Control](#)
+: [Access Control](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697591_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 4
 
 Oct 23
-: [Crypto Basic + Hash Function + Symmetric-Key Encryption](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 2.1, 2.2
+: [Crypto: Crypto Basic + Hash Function + Symmetric-Key Encryption](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11669494_1&course_id=_259279_1&launch_in_new=true)
+  : **Reading**{: .label .label-green}CSPP Chapter 2.1, 2.2, 20.1-20.3
 
 Oct 25
-: [Symmetric-Key Encryption + Diffie-Hellman Key Exchange](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 2.1, 2.2
+: [Crypto: Symmetric-Key Encryption + Diffie-Hellman Key Exchange](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697531_1&course_id=_259279_1&launch_in_new=true)
+  : **Reading**{: .label .label-green}CSPP Chapter 20.4, 20.5, 21.5
 
 Oct 30
-: [Publik-Key Encryption](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 2.3, 2.4
+: [Crypto: Publik-Key Encryption](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697521_1&course_id=_259279_1&launch_in_new=true)
+  : **Reading**{: .label .label-green}CSPP Chapter 2.3, 2.4, 
 
 Nov 1
-: [Operating System Security](#)
+: [Operating System Security](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697534_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 12
+
+Nov 6
+: [Network Security: IDS + IPS + Firewalls](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697537_1&course_id=_259279_1&launch_in_new=true)
+  : **Reading**{: .label .label-green}CSPP Chapter 8 and 9
+
 
