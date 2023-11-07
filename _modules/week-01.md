@@ -95,11 +95,11 @@ Oct 30
 : [Crypto: Publik-Key Encryption](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697521_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 2.3, 2.4, 
 
-Nov 1
+Nov 01
 : [Operating System Security](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697534_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 12
 
-Nov 6
+Nov 06
 : [Network Security: IDS + IPS + Firewalls](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11697537_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 8 and 9
 
