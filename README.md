@@ -35,6 +35,8 @@ Primary course information can be found in the [Syllabus](https://sysec-uic.gith
 - 09/25: Paper reading assignment, due on **10/06**.
 - 10/04: Paper reading assignment, due on **10/12**.
 - 10/10: Assignment 4 is out, please check the blackboard for details. Due on **10/19**.
+- 10/23: Assignment 5 is out, please check the blackboard for details. Due on **10/30**.
+- 11/07: Assignment 6 is out, please check the blackboard for details. Due on **11/16**.
 
 <!--
 {% for module in site.modules %}
