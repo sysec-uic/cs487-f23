@@ -105,14 +105,15 @@ Nov 06
 
 Nov 08
 : [Network Security: IP TCP/UDP Layers Security](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 7.1-7.3, Chapter 22.5
+  : **Reading**{: .label .label-green}CSPP Chapter 7.1-7.3, Chapter 22.5.
 
 Nov 13
 : [Network Security: TLS, Digital Certificate (X.509) + Side-Channel Attacks](#)
-  : **Reading**{: .label .label-green}CSPP Chapter 22.3, 22.4, 23.2
+  : **Reading**{: .label .label-green}CSPP Chapter 22.3, 22.4, 23.2.
 
 Nov 15
 : [Special Topics: LLMs for Security](#)
+  : **Reading**{: .label .label-green}See email or blackboard notifications.
 
 Nov 20
 : [Cache-Side Channels, Spectre and Metldown](#)
@@ -122,6 +123,7 @@ Nov 22
 
 Nov 27
 : [Special Topics: Autonomous Car Security](#)
+  : **Reading**{: .label .label-green}See email or blackboard notifications.
 
 Nov 29
 : [Final Project Presentation](#)
