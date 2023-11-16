@@ -119,11 +119,11 @@ Nov 20
 : [Cache-Side Channels, Spectre and Metldown](#)
 
 Nov 22
-: [Class Review + Homeworks Review](#)
-
-Nov 27
 : [Special Topics: Autonomous Car Security](#)
   : **Reading**{: .label .label-green}See email or blackboard notifications.
+
+Nov 27
+: [Class (Homeworks) Review](#)
 
 Nov 29
 : [Final Project Presentation](#)
