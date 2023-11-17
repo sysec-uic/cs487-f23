@@ -104,15 +104,15 @@ Nov 06
   : **Reading**{: .label .label-green}CSPP Chapter 8 and 9
 
 Nov 08
-: [Network Security: IP TCP/UDP Layers Security](#)
+: [Network Security: IP TCP/UDP Layers Security](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11734455_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 7.1-7.3, Chapter 22.5.
 
 Nov 13
-: [Network Security: TLS, Digital Certificate (X.509) + Side-Channel Attacks](#)
+: [Network Security: TLS, Digital Certificate (X.509) + Side-Channel Attacks](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11734459_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}CSPP Chapter 22.3, 22.4, 23.2.
 
 Nov 15
-: [Special Topics: LLMs for Security](#)
+: [Special Topics: LLMs for Security](https://uic.blackboard.com/webapps/blackboard/execute/content/file?cmd=view&content_id=_11734467_1&course_id=_259279_1&launch_in_new=true)
   : **Reading**{: .label .label-green}See email or blackboard notifications.
 
 Nov 20
